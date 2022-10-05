@@ -11,8 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -24,14 +22,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot-desktop.jpg)
+![](./screenshot-mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/michallides/product-preview-card-component](https://github.com/michallides/product-preview-card-component)
+- Live Site URL: [https://michallides.github.io/product-preview-card-component/](https://michallides.github.io/product-preview-card-component/)
 
-### Built with
+### Built withs
 
 - Semantic HTML5 markup
 - Flexbox
